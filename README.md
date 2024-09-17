@@ -1,4 +1,4 @@
-# Welcome 
+# Welcome to my GitHub! My name is Kim Jinmin 
 
 ### Main Language
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"> Python </code> <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_plain_logo_icon_146577.png"> C# </code> <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/cplusplus_plain_logo_icon_146580.png"> C++ </code>
