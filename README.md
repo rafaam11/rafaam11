@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/3D_Slicer-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/ISAAC_SIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
 ### Interest
-<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/> <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch</code>
 
 ### More
 [![trophy](https://github-profile-trophy.vercel.app/?username=rafaam11&theme=flat&column=7)](https://github.com/rafaam11/)
