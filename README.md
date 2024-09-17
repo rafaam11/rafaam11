@@ -4,7 +4,7 @@
 
 
 ### Language
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"> Python </code> <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_plain_logo_icon_146577.png"> C# </code> <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/cplusplus_plain_logo_icon_146580.png"> C++ </code>
 
 ### Engine
 <code><img alt = "3.1 Python" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGmk5KcrMEFoal50UzgzMjmcG_MMm-kXaFWw&s"> Unity </code> <code><img alt = "3.1 Python" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQbv-a6OYU3nUq3haKCA3oDcrGI7HLFRNpHQ&s"> 3D Slicer</code> <code><img alt = "3.1 Python" height="20" src="https://avatars.githubusercontent.com/u/157846462?s=280&v=4"> Isaac Sim</code>
