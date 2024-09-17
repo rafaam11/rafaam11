@@ -10,7 +10,7 @@
 ### Field of Interest
 
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaam11&langs_count=10&layout=compact&theme=dark)](https://github.com/rafaam11/rafaam11)﻿
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaam11&langs_count=10&layout=compact&theme=radical)](https://github.com/rafaam11/rafaam11)﻿
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgrme21)](https://solved.ac/dgrme21)
 
