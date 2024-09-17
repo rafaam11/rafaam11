@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/NVIDIA-ISAAC_SIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
 ### Skill
-<img src="https://img.shields.io/badge/ROS2_Humble-003399?style=for-the-badge&logo=windows-xp&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> 
+<img src="https://img.shields.io/badge/3D_Slicer-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/ROS2_Humble-003399?style=for-the-badge&logo=windows-xp&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> 
 
 ### Interest
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
