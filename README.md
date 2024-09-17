@@ -1,8 +1,5 @@
 # Welcome 
 
-<code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch</code>
-
-
 ### Language
 <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"> Python </code> <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_plain_logo_icon_146577.png"> C# </code> <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/cplusplus_plain_logo_icon_146580.png"> C++ </code>
 
