@@ -1,9 +1,5 @@
 # Welcome to my GitHub! My name is Kim Jinmin 
 
-<a href="https://linkedin.com/in/rlawlsals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafaam11" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100003937261711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafaam11" height="30" width="40" /></a>
-<a href="https://instagram.com/rlawlsals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafaam11" height="30" width="40" /></a>
-
 ### Main Language
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"> Python </code> <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_plain_logo_icon_146577.png"> C# </code> <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/cplusplus_plain_logo_icon_146580.png"> C++ </code>
 
