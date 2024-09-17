@@ -16,9 +16,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaam11&show_icons=true&locale=en" alt="rafaam11" /></p>
 
-<p><img align="left" src="https://http://mazassumnida.wtf/api/v2/generate_badge?boj=dgrme21"(https://solved.ac/dgrme21) alt="rafaam11" /></p>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgrme21)](https://solved.ac/dgrme21)
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaam11&langs_count=10&layout=compact&theme=graywhite)](https://github.com/rafaam11/rafaam11)﻿ [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgrme21)](https://solved.ac/dgrme21) 
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaam11&langs_count=10&layout=compact&theme=graywhite)](https://github.com/rafaam11/rafaam11)﻿  
 
 [![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaam11&include_all_commits=true&show_icons=true&theme=graywhite)](https://github.com/rafaam11/github-readme-stats)
 
