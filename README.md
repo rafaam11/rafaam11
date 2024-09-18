@@ -1,5 +1,4 @@
-# Welcome to my GitHub! 
-- 👀 Thank you for your interest in my git!
+# Thank you for your interest in my git!
 - 👋 My name is Kim Jinmin.
 - 🔭 I've specialized in developing XR-based surgical navigation systems.
 - 🌱 I’m currently interested in robotic digital-twin simulations, and preparing to transition into industrial field.
