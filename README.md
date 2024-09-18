@@ -1,4 +1,8 @@
-# Welcome to my GitHub! My name is Kim Jinmin 
+# Welcome to my GitHub! 
+- 👀 Thank you for your interest in my git!
+- 👋 My name is Kim Jinmin.
+- 🔭 I've specialized in developing XR-based surgical navigation systems.
+- 🌱 I’m currently interested in robotic digital-twin simulations, and preparing to transition into industrial field.
 
 ### Main Language
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"> Python </code> <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_plain_logo_icon_146577.png"> C# </code> <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/cplusplus_plain_logo_icon_146580.png"> C++ </code>
