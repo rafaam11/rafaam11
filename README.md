@@ -1,4 +1,4 @@
-# Thank you for interest in me!
+## Last Update: 2024.09.21.
 - 👋 My name is Kim Jinmin.
 - 🔭 I've specialized in developing XR-based surgical navigation systems.
 - 🌱 I’m currently interested in robotic digital-twin simulations, and preparing to transition into industrial field.
