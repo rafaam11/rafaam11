@@ -148,84 +148,17 @@ I'm a robotics researcher specializing in Extended Reality (XR) and medical appl
 
 ## 🧰 Tech Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![C++23](https://img.shields.io/badge/C%2B%2B23-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logoColor=white)
-
-**XR & 3D Engines**
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![3D Slicer](https://img.shields.io/badge/3D_Slicer-E34F26?style=flat-square&logoColor=white)
-
-**XR SDKs & Runtimes**
-
-![MRTK2](https://img.shields.io/badge/MRTK2-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![OculusSDK](https://img.shields.io/badge/OculusSDK-1C1E20?style=flat-square&logo=oculus&logoColor=white)
-![Vuforia](https://img.shields.io/badge/Vuforia-039BE5?style=flat-square&logoColor=white)
-![PUN2](https://img.shields.io/badge/PUN2-003087?style=flat-square&logoColor=white)
-
-**Robotics & Real-Time**
-
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Zenoh](https://img.shields.io/badge/Zenoh-3B7DDD?style=flat-square&logoColor=white)
-![BehaviorTree](https://img.shields.io/badge/BehaviorTree.CPP-5C2D91?style=flat-square&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu_/_Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Dynamixel](https://img.shields.io/badge/Dynamixel-FF6900?style=flat-square&logoColor=white)
-
-**Vision & 3D**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Open3D](https://img.shields.io/badge/Open3D-1B9AC4?style=flat-square&logoColor=white)
-![OpenVINO](https://img.shields.io/badge/OpenVINO-00C7FD?style=flat-square&logo=intel&logoColor=white)
-![SAM3](https://img.shields.io/badge/SAM3-0668E1?style=flat-square&logoColor=white)
-![DUSt3R](https://img.shields.io/badge/DUSt3R-6E40C9?style=flat-square&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Medical Imaging**
-
-![VTK](https://img.shields.io/badge/VTK-005CB9?style=flat-square&logoColor=white)
-![DICOM](https://img.shields.io/badge/DICOM-005CB9?style=flat-square&logoColor=white)
-![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=white)
-
-**Backend & Infra**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Conan](https://img.shields.io/badge/Conan-6699CB?style=flat-square&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
-
-**CAD & Hardware**
-
-![SolidWorks](https://img.shields.io/badge/SolidWorks-D5121E?style=flat-square&logoColor=white)
-![OnShape](https://img.shields.io/badge/OnShape-2D9CDB?style=flat-square&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-**AI Tooling**
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-1F6FEB?style=flat-square&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rafaam11&theme=tokyonight&column=7&no-frame=true&no-bg=true)](https://github.com/rafaam11)
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaam11&include_all_commits=true&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaam11&langs_count=10&layout=compact&theme=tokyonight" />
-</p>
+| Category | Technologies |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![C++23](https://img.shields.io/badge/C%2B%2B23-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logoColor=white) |
+| **XR & 3D Engines** | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white) ![3D Slicer](https://img.shields.io/badge/3D_Slicer-E34F26?style=flat-square&logoColor=white) |
+| **XR SDKs & Runtimes** | ![MRTK2](https://img.shields.io/badge/MRTK2-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![OculusSDK](https://img.shields.io/badge/OculusSDK-1C1E20?style=flat-square&logo=oculus&logoColor=white) ![Vuforia](https://img.shields.io/badge/Vuforia-039BE5?style=flat-square&logoColor=white) ![PUN2](https://img.shields.io/badge/PUN2-003087?style=flat-square&logoColor=white) |
+| **Robotics & Real-Time** | ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white) ![Zenoh](https://img.shields.io/badge/Zenoh-3B7DDD?style=flat-square&logoColor=white) ![BehaviorTree](https://img.shields.io/badge/BehaviorTree.CPP-5C2D91?style=flat-square&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu_/_Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Dynamixel](https://img.shields.io/badge/Dynamixel-FF6900?style=flat-square&logoColor=white) |
+| **Vision & 3D** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Open3D](https://img.shields.io/badge/Open3D-1B9AC4?style=flat-square&logoColor=white) ![OpenVINO](https://img.shields.io/badge/OpenVINO-00C7FD?style=flat-square&logo=intel&logoColor=white) ![SAM3](https://img.shields.io/badge/SAM3-0668E1?style=flat-square&logoColor=white) ![DUSt3R](https://img.shields.io/badge/DUSt3R-6E40C9?style=flat-square&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Medical Imaging** | ![VTK](https://img.shields.io/badge/VTK-005CB9?style=flat-square&logoColor=white) ![DICOM](https://img.shields.io/badge/DICOM-005CB9?style=flat-square&logoColor=white) ![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=white) |
+| **Backend & Infra** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) ![Conan](https://img.shields.io/badge/Conan-6699CB?style=flat-square&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white) |
+| **CAD & Hardware** | ![SolidWorks](https://img.shields.io/badge/SolidWorks-D5121E?style=flat-square&logoColor=white) ![OnShape](https://img.shields.io/badge/OnShape-2D9CDB?style=flat-square&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
+| **AI Tooling** | ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-1F6FEB?style=flat-square&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white) |
 
 ---
 
