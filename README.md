@@ -101,49 +101,6 @@ I'm a robotics researcher specializing in Extended Reality (XR) and medical appl
   </tr>
 </table>
 
-### 🛠️ Open Source
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/rafaam11/samurai_test">🎯 samurai_test</a></h4>
-      <p>Visual object-tracking experiments combining SAMURAI (SAM-based tracking) with YOLOv11 detection — exploring robust target tracking for robot vision.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/YOLOv11-111111?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/SAM-0668E1?style=flat-square&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/rafaam11/FeatureMatch_LightGlue">🔗 FeatureMatch_LightGlue</a></h4>
-      <p>Feature-matching pipeline using LightGlue for image correspondence — a building block for registration, calibration, and pose estimation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/rafaam11/Unity_Dicom_dll">🏥 Unity_Dicom_dll</a></h4>
-      <p>Unity-native KDicom viewer bridge enabling direct DICOM image loading and visualization inside Unity scenes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-        <img src="https://img.shields.io/badge/DICOM-005CB9?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/rafaam11/MetaQuestVR">🥽 MetaQuestVR</a></h4>
-      <p>Unity VR environment setup template for the Meta Quest series — hand-tracking, scene transitions, and interaction presets out of the box.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 🧰 Tech Stack
