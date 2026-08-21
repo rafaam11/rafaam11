@@ -23,21 +23,23 @@
 
 ## 👤 About Me
 
-I'm a robotics researcher specializing in Extended Reality (XR) and medical applications. My M.S. research at DGIST focused on XR-based surgical navigation — combining real-time 3D visualization, medical image registration, and HMD integration for intraoperative guidance, published in an SCI(e) Q1 journal. At **DIGITRACK Inc.** I develop high-accuracy optical tracking and surgical-navigation software, and have extended the same 3D-geometry, registration, and real-time-control foundation to **industrial robot vision and digital twins** — building an autonomous-forklift (AGV) stack with ToF+RGB sensor fusion, deep-learning 6-DOF pose estimation, and a C++ real-time control loop validated **sim-to-real** on NVIDIA Isaac Sim. Alongside this, I build my own developer tooling with **AI coding agents** (Claude Code, MCP, custom workflows).
+Robot software engineer — 3D registration, medical imaging, and robot systems, from research to the field. @ DIGITRACK
+
+My M.S. work at DGIST optimized mandibular-fracture reduction from CT geometry (Q1 SCIE, joint first author). At **DIGITRACK** I build surgical-navigation software around the in-house SKADI optical tracker (SMCNavi, NeuroPilot, Life Careverse XR), run the sensor-validation side of a surface-guided respiratory-tracking study, and carried the same registration and real-time foundations into the DOTORI autonomous-forklift stack. Alongside this I build my own developer tooling with AI coding agents.
 
 |   |   |
 |---|---|
 | 🏢 **Position** | Researcher, DIGITRACK Inc. (2023.02 – present) |
 | 🎓 **Education** | M.S. Robotics & Mechatronics Engineering, DGIST (2021.03 – 2023.02) |
-| 🔬 **Research Interests** | XR Surgical Navigation · Medical Image Registration · Robot Vision · Robotic Digital-Twin · Sim-to-Real Transfer · Human-Robot Interaction |
+| 🔬 **Research Interests** | 3D Registration · Medical Image Processing · Surgical Navigation · Robot Vision · XR |
 | 🌐 **Location** | Daegu, Republic of Korea |
 | 🔗 **Portfolio** | [rafaam11.github.io](https://rafaam11.github.io) |
 
 ### 📝 Selected Publications · Patents · Awards
 
-- **Publication** — Kim, J. *et al.*, "A Proof of Concept: Optimized Jawbone-Reduction Model for Mandibular Fracture Surgery," *Journal of Imaging Informatics in Medicine* (SCI(e), IF 4.2, Q1), 2024. [[DOI](https://link.springer.com/article/10.1007/s10278-024-01014-z)]
-- **Patents** — 7 filed (KR), incl. surgical-tool coordinate registration (10-2024-0186869), optical position tracking (10-2024-0186864), and 2-axis stereo-camera actuation (10-2024-0127937).
-- **Awards** — Best Paper Award, Korean Society of Medical Robotics (2023) · Best Poster Award, Korean Society of Medical Metaverse (2024) · *9 total*.
+1 SCIE Q1 paper (joint first author) · 7 patent applications (3 registered) · 9 awards
+
+- Kim, J. *et al.*, "A Proof of Concept: Optimized Jawbone-Reduction Model for Mandibular Fracture Surgery," *Journal of Imaging Informatics in Medicine*, 2024. [[DOI](https://link.springer.com/article/10.1007/s10278-024-01014-z)]
 
 > Full list on the [portfolio CV](https://rafaam11.github.io/cv/) and [LinkedIn](https://www.linkedin.com/in/rlawlsals/).
 
@@ -45,61 +47,18 @@ I'm a robotics researcher specializing in Extended Reality (XR) and medical appl
 
 ## 🚀 Project Showcase
 
-### 🔬 Research & Work Projects
+Eight cases on the portfolio site, in site order. Each page carries the problem, my own role, evidence, and limitations; images and short clips are added as they are cleared for public use.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🩺 XR Surgical Navigation</h4>
-      <p>Real-time surgical guidance overlaying preoperative CT/MRI onto the patient via optical tracking and HoloLens AR. Multi-coordinate (4×4) registration for sub-millimeter (~0.2&nbsp;mm) instrument tracking, targeting oral-maxillofacial, neuro, and orthopedic procedures.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-        <img src="https://img.shields.io/badge/HoloLens-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-        <img src="https://img.shields.io/badge/3D_Slicer-E34F26?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Optical_Tracking-005CB9?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-      </p>
-      <sub>⚠️ Code under NDA · available upon request</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 Robot Vision & Digital-Twin (AGV)</h4>
-      <p>Autonomous-forklift stack at DIGITRACK: ToF+RGB sensor fusion → 3D point cloud → deep-learning 6-DOF pallet pose (SAM3 / DUSt3R), driving a C++23 real-time control loop (Zenoh pub/sub, BehaviorTree). Validated <strong>sim-to-real</strong> against an NVIDIA Isaac Sim digital twin sharing the live control network.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C%2B%2B23-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenVINO-00C7FD?style=flat-square&logo=intel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Zenoh-3B7DDD?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Open3D-1B9AC4?style=flat-square&logoColor=white" />
-      </p>
-      <sub>⚠️ Code under NDA · work in progress</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 Medical Navigation (3D Slicer)</h4>
-      <p>Surgical-navigation modules on 3D Slicer (NeuroPilot / hospital virtual-care projects): a TCP/IP binary packet protocol (ICD design) bridging tracking hardware, plus AI segmentation networks for intraoperative targeting.</p>
-      <p>
-        <img src="https://img.shields.io/badge/3D_Slicer-E34F26?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/VTK-005CB9?style=flat-square&logoColor=white" />
-      </p>
-      <sub>⚠️ Private · DIGITRACK</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧩 LLM Wiki — Personal AI Knowledge System</h4>
-      <p>A self-built pipeline where an LLM agent ingests, links, and publishes my personal knowledge: Notion input → AI refine & connect → static wiki / blog. Full-stack TypeScript & Python with PostgreSQL and Docker, automated heavily with AI coding agents (Claude Code, MCP).</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/MCP-CC785C?style=flat-square&logoColor=white" />
-      </p>
-      <sub>⚠️ Private · personal project</sub>
-    </td>
-  </tr>
-</table>
+| Group | Project | What it is |
+|:---|:---|:---|
+| Medical core | [Surgical Navigation Systems](https://rafaam11.github.io/projects/surgical-navigation/) | Tracking devices, SDKs, coordinate transforms and HoloLens spatial display in one surgical-navigation system. |
+| Medical core | [Mandibular Fracture Reduction Optimization](https://rafaam11.github.io/projects/mandibular-fracture/) | Surgical-planning simulator and experiment pipeline optimizing mandibular fragment pose from dental features. |
+| Medical core | [Life Careverse — Multi-user XR](https://rafaam11.github.io/projects/life-careverse/) | Quest-based multi-user XR application sharing spatial, voice and scenario state. |
+| Medical core | [rTMS Navigation Prototype](https://rafaam11.github.io/projects/rtms-navigation/) | Slicer structure, tracking devices, coordinate flow and UI in a repeatable research-navigation environment. |
+| Medical core | [Surface-guided Respiratory Tracking (SGRT)](https://rafaam11.github.io/projects/respiratory-surface-guidance/) | Early-stage SGRT research: far-field surface reconstruction and near-field breathing tracking with 3D sensors. |
+| Platform software | [SKADI Tracking Software (API and Viewer)](https://rafaam11.github.io/projects/skadi-tracking-software/) | SKADI API/SDK, the Viewer for device state and tracking results, and a 3D Slicer custom-app template. |
+| Industrial | [Multi-sensor Registration for an Autonomous Forklift](https://rafaam11.github.io/projects/unmanned-forklift/) | ToF-RGB-SAM3 registration, LiDAR point-cloud processing, localization, sensor fusion and Zenoh in one flow. |
+| AI Build Lab | [AI Build Lab — Tools I Needed, Built and Shipped](https://rafaam11.github.io/projects/ai-build-lab/) | A local-first knowledge system (private data), a multi-CLI desktop app and a Daegu bus-information app. |
 
 ---
 
