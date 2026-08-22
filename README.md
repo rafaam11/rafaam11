@@ -37,17 +37,17 @@ My M.S. work at DGIST optimized mandibular-fracture reduction from CT geometry (
 
 ### 📝 Selected Publications · Patents · Awards
 
-1 SCIE Q1 paper (joint first author) · 7 patent applications (3 registered) · 9 awards
+7 publications and presentations, including 1 SCIE Q1 journal article (joint first author) · 7 patent applications (3 granted) · 9 awards
 
 - Kim, J. *et al.*, "A Proof of Concept: Optimized Jawbone-Reduction Model for Mandibular Fracture Surgery," *Journal of Imaging Informatics in Medicine*, 2024. [[DOI](https://link.springer.com/article/10.1007/s10278-024-01014-z)]
 
-> Full list on the [portfolio CV](https://rafaam11.github.io/cv/) and [LinkedIn](https://www.linkedin.com/in/rlawlsals/).
+> Full list on the [portfolio CV](https://rafaam11.github.io/en/cv/) ([PDF](https://rafaam11.github.io/assets/cv/jinmin-kim-cv-en.pdf)) and [LinkedIn](https://www.linkedin.com/in/rlawlsals/).
 
 ---
 
 ## 🚀 Project Showcase
 
-Eight cases on the portfolio site, in site order. Each page carries the problem, my own role, evidence, and limitations; images and short clips are added as they are cleared for public use.
+Eight cases on the portfolio site, in site order. Each page carries the problem, my own role, evidence, and limitations, and every case now shows cleared screens or a short clip.
 
 | Group | Project | What it is |
 |:---|:---|:---|
